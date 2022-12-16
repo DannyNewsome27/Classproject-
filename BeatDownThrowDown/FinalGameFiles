@@ -1,0 +1,50 @@
+  .gitattributes
+  .gitignore
+  .vs/BEATDOWN THROWDOWN/FileContentIndex/0f860af7-2772-4147-b6c4-5b8019ed70ba.vsidx
+  .vs/BEATDOWN THROWDOWN/FileContentIndex/187d6f39-50c7-4248-a9cc-05477b85d652.vsidx
+  .vs/BEATDOWN THROWDOWN/FileContentIndex/6850efea-edd1-4c2f-864a-acef532fc2fb.vsidx
+  .vs/BEATDOWN THROWDOWN/FileContentIndex/c21d71ea-bf6c-4fb3-94bc-4912600cae57.vsidx
+  .vs/BEATDOWN THROWDOWN/FileContentIndex/read.lock
+  .vs/BEATDOWN THROWDOWN/v17/.suo
+  .vsconfig
+  Assembly-CSharp.csproj
+  Assets/Background.meta
+  Assets/Background/BACKGROUND lower.png
+  Assets/Background/BACKGROUND lower.png.meta
+  Assets/Background/BACKGROUND.png
+  Assets/Background/BACKGROUND.png.meta
+  Assets/Background/Road.png
+  Assets/Background/Road.png.meta
+  Assets/EnemyWalk.cs
+  Assets/EnemyWalk.cs.meta
+  Assets/Music.meta
+  Assets/Music/22 Passionate (Transport Factory).mp3
+  Assets/Music/22 Passionate (Transport Factory).mp3.meta
+  Assets/Music/I REALLY WANT TO STAY AT YOUR HOUSE 【 CHIPTUNE 】 CYBERPUNK EDGERUNNERS _ サイバーパンクエッジランナーズ.mp3
+  Assets/Music/I REALLY WANT TO STAY AT YOUR HOUSE 【 CHIPTUNE 】 CYBERPUNK EDGERUNNERS _ サイバーパンクエッジランナーズ.mp3.meta
+  Assets/Music/Quest Clear.mp3
+  Assets/Music/Quest Clear.mp3.meta
+  Assets/Music/Vs. Silver the Hedgehog - Sonic Generations _OST_.mp3
+  Assets/Music/Vs. Silver the Hedgehog - Sonic Generations _OST_.mp3.meta
+  Assets/Scenes.meta
+  Assets/Scenes/1st Level.unity
+  Assets/Scenes/1st Level.unity.meta
+  Assets/Scenes/Boss Fight.unity
+  Assets/Scenes/Boss Fight.unity.meta
+  Assets/Scenes/MainMenu.unity
+  Assets/Scenes/MainMenu.unity.meta
+  Assets/Scenes/Victory.unity
+  Assets/Scenes/Victory.unity.meta
+  Assets/Scripts.meta
+  Assets/Scripts/Camerafollow.cs
+  Assets/Scripts/Camerafollow.cs.meta
+  Assets/Scripts/Enemy.cs
+  Assets/Scripts/Enemy.cs.meta
+  Assets/Scripts/EnemyAngles.cs
+  Assets/Scripts/EnemyAngles.cs.meta
+  Assets/Scripts/EnemyAttack.cs
+  Assets/Scripts/EnemyAttack.cs.meta
+  Assets/Scripts/EnterPortal.cs
+  Assets/Scripts/EnterPortal.cs.meta
+  Assets/Scripts/Healthbar.cs
+  Assets/Scripts/Healthbar.cs.meta
